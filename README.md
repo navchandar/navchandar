@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello There
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=navchandar&show_icons=true">
 
-<!--
-**navchandar/navchandar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+  * Learning Python, Java, Javascript
+  * Ask me about Automation
 
-Here are some ideas to get you started:
+#### Reach Me
+[![Linkedin Badge](https://img.shields.io/badge/-naveenchandar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naveenchandar//)](https://www.linkedin.com/in/naveenchandar/) 
+[![Twitter Badge](https://img.shields.io/badge/-navchandar-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/navchandar)](https://twitter.com/navchandar) 
+[![StackOverflow Badge](https://img.shields.io/badge/-naveenchandar-2d2d2d?style=flat-square&logo=StackOverflow&logoColor=orange&link=https://stackoverflow.com/story/naveenchandar//)](https://stackoverflow.com/story/naveenchandar/) 
+[![Portfolio Badge](https://img.shields.io/badge/-navchandar-24292e?style=flat-square&logo=Github&logoColor=white&link=https://navchandar.github.io//)](https://navchandar.github.io/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+⭐️ From [NaveenChandar](https://github.com/navchandar)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
