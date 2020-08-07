@@ -1,5 +1,5 @@
 ### Hello There
-<img align='right' width=45% src="https://github-readme-stats.vercel.app/api?username=navchandar&show_icons=true">
+<a target='_blank' href='https://navchandar.github.io'><img align='right' width=45% src="https://github-readme-stats.vercel.app/api?username=navchandar&show_icons=true"></a>
 
 #### About
   * I code in Python, Java, Javascript, PowerShell
