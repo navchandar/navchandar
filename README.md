@@ -1,7 +1,9 @@
 ### Hello There
-<a target='_blank' href='https://navchandar.github.io'><img align='right' width=45% src="https://github-readme-stats.vercel.app/api?username=navchandar&show_icons=true"></a>
 
 #### About
+<a target="_blank" href="https://navchandar.github.io"><img align="right" width=35% src="https://github-readme-stats.vercel.app/api?username=navchandar&show_icons=true"></a>
+<a href="https://github.com/navchandar"><img align="right" width=20% src="https://github-readme-stats.vercel.app/api/top-langs/?username=navchandar&hide=css,html" />
+</a>
   * I code in Python, Java, Javascript, PowerShell
   * Professional website breaker and bug finder
   * Ask me about Automation and Testing
