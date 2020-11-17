@@ -1,9 +1,9 @@
 ### Hello There
 
 #### About
-<a target="_blank" href="https://navchandar.github.io"><img align="right" width=40% src="https://github-readme-stats.vercel.app/api?username=navchandar&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"></a>
-<a href="https://github.com/navchandar?tab=repositories"><img align="right" width=25% src="https://github-readme-stats.vercel.app/api/top-langs/?username=navchandar&hide=css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+<a href="https://github.com/navchandar?tab=repositories"><img align="right" width=23% src="https://github-readme-stats.vercel.app/api/top-langs/?username=navchandar&hide=css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+<a target="_blank" href="https://navchandar.github.io"><img align="right" width=38% src="https://github-readme-stats.vercel.app/api?username=navchandar&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"></a>
+
   * I code in Python, Java, Javascript, PowerShell
   * Professional website breaker and bug finder
   * Ask me about Automation and Testing
