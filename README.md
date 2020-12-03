@@ -5,7 +5,7 @@
 
   * I code in Python, Java, Javascript, PowerShell
   * Professional website breaker and bug finder
-  * Ask me about Automation and Testing
+  * Ask me about Automation and Testing or post your ideas/queries [here](https://github.com/navchandar/navchandar/issues/new) 
 
 #### Reach Me 📠
 [![Linkedin Badge](https://img.shields.io/badge/-naveenchandar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naveenchandar//)](https://www.linkedin.com/in/naveenchandar/) 
