@@ -1,7 +1,7 @@
 ### Hello There 🙋🏻‍♂️  I'm [Naveen](https://navchandar.github.io)
 
-<a href="https://github.com/navchandar?tab=repositories"><img align="right" width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navchandar&layout=compact&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=1d1f21&hide_rank=true&card_width=80" /></a>
-<a target="_blank" href="https://github.com/navchandar?tab=repositories"><img align="right" src="https://github-readme-stats.vercel.app/api?username=navchandar&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=1d1f21&hide_rank=true&card_width=200"></a>
+<a href="https://github.com/navchandar?tab=repositories"><img align="right" width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navchandar&layout=compact&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=1d1f21&hide_rank=true" /></a>
+<a target="_blank" href="https://github.com/navchandar?tab=repositories"><img align="right" src="https://github-readme-stats.vercel.app/api?username=navchandar&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=1d1f21&hide_rank=true"></a>
 
   * I code in Python, Java, Javascript, PowerShell
   * Professional website breaker and bug finder
