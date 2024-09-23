@@ -1,8 +1,7 @@
 ## Hello There 🙋🏻‍♂️  I'm [Naveen](https://navchandar.github.io)
 
   * I code in Python, Java, Javascript, PowerShell
-  * I’m a a professional website breaker and bug hunter by day, and hobbyist web developer by night
-  * Ask me about Automation and Testing or post your ideas/queries [here](https://github.com/navchandar/navchandar/issues/new) 
+  * I’m a professional website breaker and bug hunter by day, and a hobbyist web developer by night
 
 ### Reach Me 📠
 [![Linkedin Badge](https://img.shields.io/badge/-naveenchandar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naveenchandar//)](https://www.linkedin.com/in/naveenchandar/) 
