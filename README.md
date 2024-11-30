@@ -10,7 +10,8 @@
 
 ### Reach Me 📠
 [![Linkedin Badge](https://img.shields.io/badge/-naveenchandar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naveenchandar//)](https://www.linkedin.com/in/naveenchandar/) 
-[![Bluesky Badge](https://img.shields.io/badge/-navchandar-3686f7?style=flat-square&logo=Bluesky&logoColor=white&link=https://bsky.app/profile/navchandar.bsky.social)](https://bsky.app/profile/navchandar.bsky.social)] [![StackOverflow Badge](https://img.shields.io/badge/-naveenchandar-2d2d2d?style=flat-square&logo=StackOverflow&logoColor=orange&link=https://stackoverflow.com/story/naveenchandar//)](https://stackoverflow.com/users/7964299/naveen?tab=profile) 
+[![Bluesky Badge](https://img.shields.io/badge/-navchandar-3686f7?style=flat-square&logo=Bluesky&logoColor=white&link=https://bsky.app/profile/navchandar.bsky.social)](https://bsky.app/profile/navchandar.bsky.social)
+[![StackOverflow Badge](https://img.shields.io/badge/-naveenchandar-2d2d2d?style=flat-square&logo=StackOverflow&logoColor=orange&link=https://stackoverflow.com/story/naveenchandar//)](https://stackoverflow.com/users/7964299/naveen?tab=profile) 
 [![Portfolio Badge](https://img.shields.io/badge/-navchandar-24292e?style=flat-square&logo=Github&logoColor=white&link=https://navchandar.github.io//)](https://navchandar.github.io/) 
 
 
