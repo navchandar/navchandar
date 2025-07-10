@@ -1,7 +1,7 @@
 ## 🙋🏻‍♂️ Hello There I'm [Naveen](https://navchandar.github.io)
 
   * 💻 I code in Python, Java, Javascript, PowerShell
-  * 🌐 I’m a professional website breaker by day (a.k.a. Quality Assurance), and a hobbyist web developer by night
+  * 🌐 I’m a professional website breaker by day (QA), and web developer by night
   * 🗣️ I speak English, Tamil, Kannada, Hindi and a bit of Deutsch
     
 <p><a target="_blank" href="https://github.com/navchandar?tab=repositories"><img align="left" src="https://github-readme-stats.vercel.app/api?username=navchandar&layout=compact&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=1d1f21&hide_rank=true"></a>
