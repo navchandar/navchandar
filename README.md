@@ -18,7 +18,7 @@
 
 
 ### 📫 Reach Me 
-[![Linkedin Badge](https://img.shields.io/badge/-naveenchandar-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/naveenchandar/)](https://www.linkedin.com/in/naveenchandar/) 
+[![Linkedin Badge](https://img.shields.io/badge/-naveenchandar-whitesmoke?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAABwgAAAcIAHND5ueAAABk0lEQVR42n3Pv8vOexwG8Nf7872fuzynk1PnHM4pgyJSslCSxWAwmSyUTEYsFhmkbDYmg002f4HFYhPyY8DypCwSj0We+8fnYr17eu7X8h7edXVd5d4LJquMw9AolisyZ2WFyUx5+JYff5T+8x/yt6QsU0Vq3ah/1vp85OuEwU6trlPHAIVgs6Dy3rTftG3Hu5HxhPn4P+mnxF5E1VQyJlu12C0eyLd3zTBDmmigPMVtZc1WkqKav2baYjLUJ5Xn1PfFR9kkjAAQQWUP7YQyoh5Tc3zBgBOS/wGgAaAAr6lHVsbPtNEtcZXhDnWNeqSqbxUAxE9V69SGat+12q+5jp14Q22ggMUJmweXQfpeHCH/qpqSLssaAKWQXlJNBKUKbDUhoBzS5+dMpwd/37Mqx8mfktN6PylZQQAaDaAIcZRcNp8dlVzCKenbcYGckYxRKDPK3ecMo33acF85jKAW7qLCmp6LxpOnI20byUdVN7R2QNIsVSEf9dkrq1258oRdq6yts2/PYD61XLGxvdvxIc6/9AvNFKCw7JVXqgAAAABJRU5ErkJggg==&logoColor=white&link=https://www.linkedin.com/in/naveenchandar/)](https://www.linkedin.com/in/naveenchandar/) 
 [![Bluesky Badge](https://img.shields.io/badge/-navchandar-3686f7?style=flat-square&logo=Bluesky&logoColor=white&link=https://bsky.app/profile/navchandar.bsky.social)](https://bsky.app/profile/navchandar.bsky.social)
 [![StackOverflow Badge](https://img.shields.io/badge/-naveenchandar-2d2d2d?style=flat-square&logo=StackOverflow&logoColor=orange&link=https://stackoverflow.com/story/naveenchandar//)](https://stackoverflow.com/users/7964299/naveen?tab=profile) 
 [![Portfolio Badge](https://img.shields.io/badge/-navchandar-24292e?style=flat-square&logo=Github&logoColor=white&link=https://navchandar.github.io//)](https://navchandar.github.io/) 
