@@ -1,20 +1,58 @@
 ## 🙋🏻‍♂️ Hello There I'm [Naveen](https://navchandar.github.io)
 
-  * I am a Software Quality Assurance Professional with 12 years of experience
-  * Leading teams to perform in UI Automation, API Testing, and Performance Engineering
+  * I am a Software Quality Assurance Professional with 12+ years of experience
+  * Leading Quality Assurance teams to manage UI Automation, API Testing, and Performance Engineering
   * Deep hands-on experience with Selenium, PyTest, Robot Framework and JMeter
   * I code in Python, Java, Javascript, PowerShell
   * I speak English, Tamil, Kannada, Hindi and a bit of Deutsch
-    
-<!--
-<p><a target="_blank" href="https://github.com/navchandar?tab=repositories"><img align="left" src="https://github-readme-stats.vercel.app/api?username=navchandar&layout=compact&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=1d1f21&hide_rank=true"></a>
-<a href="https://github.com/navchandar?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navchandar&layout=compact&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=1d1f21&hide_rank=true" /></a>
-</p>
-<br/>  
--->
+
   
 ### 🧰 Tech Stack
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+<table border="0">
+  <!-- Row 1: Cloud, DevOps & Frontend -->
+  <tr>
+    <td><a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a></td>
+    <td><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a></td>
+    <td><a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a></td>
+    <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></td>
+    <td><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></td>
+    <td><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a></td>
+    <td><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a></td>
+  </tr>
+  <!-- Row 2: Styling, Backend, Automation & DBs -->
+  <tr>
+    <td><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></td>
+    <td><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a></td>
+    <td><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></td>
+    <td><a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/></a></td>
+    <td><a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/></a></td>
+    <td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a></td>
+    <td><a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a></td>
+    <td><a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/></a></td>
+  </tr>
+</table>
+
+
+<p>
+  <!-- GitHub Stats Card -->
+  <a target="_blank" href="https://github.com/navchandar?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=navchandar&layout=compact&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=1d1f21&hide_rank=true">
+      <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=navchandar&layout=compact&show_icons=true&title_color=000000&text_color=333333&icon_color=2bbc8a&bg_color=ffffff&hide_rank=true">
+    </picture>
+  </a>
+
+  <!-- Top Langs Card -->
+  <a href="https://github.com/navchandar?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=navchandar&layout=compact&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=1d1f21&hide_rank=true">
+      <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navchandar&layout=compact&title_color=000000&text_color=333333&icon_color=2bbc8a&bg_color=ffffff&hide_rank=true" />
+    </picture>
+  </a>
+</p>
+<br/>  
 
 
 ### 📫 Reach Me 
